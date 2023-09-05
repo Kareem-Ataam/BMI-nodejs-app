@@ -7,6 +7,12 @@ In this project we deploy a docker container of a simple Node JS app (BMI Calcul
  - Building a docker image of the APP.
  - Deploying the Docker container on AWS EC2 instance.
 
+## What I used in this project:
+  - NodeJS for the app.
+  - AWS IAM service.
+  - AWS ECR service.
+  - AWS EC2 service.
+
 Let's start:
 
 ### Clone the project and test it locally:
